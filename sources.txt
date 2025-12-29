@@ -3,3 +3,13 @@ https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
 
 steps for edge detection
 https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
+https://www.geeksforgeeks.org/python/real-time-edge-detection-using-opencv-python/#
+
+deciding sift v akage
+https://ieeexplore.ieee.org/document/8346440
+
+sift
+https://thepythoncode.com/article/sift-feature-extraction-using-opencv-in-python
+
+board projection
+https://docs.opencv.org/4.x/d1/de0/tutorial_py_feature_homography.html
